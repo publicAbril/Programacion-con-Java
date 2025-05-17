@@ -1,2 +1,2 @@
-# Programaci-n-con-Java
+# Programacion-con-Java
 RETOS realizados dentro del curso de programación con Java en BEDU - Módulo Básico
